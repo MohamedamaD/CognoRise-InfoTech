@@ -1,0 +1,10 @@
+export { default as Introduction } from "./Introduction/Introduction";
+export { default as Background } from "./Background/Background";
+export { default as Projects } from "./Projects/Projects";
+export { default as Skills } from "./Skills/Skills";
+export { default as Experience } from "./Experience/Experience";
+export { default as Testimonials } from "./Testimonials/Testimonials";
+export { default as Blog } from "./Blog/Blog";
+export { default as Achievements } from "./Achievements/Achievements.jsx";
+export { default as Contact } from "./Contact/Contact";
+export { default as Navigation } from "./Navigation/Navigation";
