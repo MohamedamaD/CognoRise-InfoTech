@@ -84,6 +84,25 @@
 
 **Status**: ✅ Completed
 
+## **TASK 6: QUIZ APPLICATION** ✅
+
+**Description:**
+- **Objective**: Create a quiz application where users can select a category, answer questions, and see their scores at the end.
+- **Features**:
+  - Users can select a quiz category.
+  - A timer for each question set to 30 seconds.
+  - Ability to navigate through questions and receive a score at the end.
+  - Fetch questions dynamically from a MongoDB database.
+
+**Technologies Used:**
+- **React**: Core framework for building the UI components.
+- **React Bootstrap**: For styling and responsive layout using pre-built Bootstrap components.
+- **JavaScript**: Logic for handling quiz functionality, timer, and state management.
+- **Axios**: For fetching data from the backend.
+- **MongoDB**: For storing quiz questions and categories.
+
+**Status**: ✅ Completed
+
 ## **TASK 7: COUNTDOWN TIMER** ✅
 
 **Description:**
