@@ -84,6 +84,23 @@
 
 **Status**: ✅ Completed
 
+## **TASK 7: COUNTDOWN TIMER** ✅
+
+**Description:**
+- **Objective**: Build a countdown timer that counts down to a specific date and time.
+- **Features**:
+  - User can set the countdown target date and time.
+  - The remaining time (days, hours, minutes, seconds) is displayed and updated in real-time.
+  - Timer stops automatically when the countdown reaches zero.
+
+**Technologies Used:**
+- **React**: Core framework for building the UI components.
+- **React Bootstrap**: For styling and responsive layout using pre-built Bootstrap components.
+- **JavaScript**: Logic for handling time calculations and updating the countdown.
+- **Date Object**: Used for time calculations.
+
+**Status**: ✅ Completed
+
 
 ## **Contact**
 
