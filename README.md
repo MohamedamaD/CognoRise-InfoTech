@@ -121,6 +121,23 @@
 **Status**: ✅ Completed
 
 
+## **TASK 8: BMI CALCULATOR** ✅
+
+**Description:**
+- **Objective**: Create a simple Body Mass Index (BMI) calculator that takes user input for weight and height.
+- **Features**:
+  - Input fields for weight and height.
+  - Calculate BMI based on user input.
+  - Display BMI result and a message indicating the BMI category (e.g., Underweight, Normal weight, Overweight, Obesity).
+
+**Technologies Used:**
+- **React**: For building the UI components.
+- **React Bootstrap**: For styling and responsive layout using pre-built Bootstrap components.
+- **JavaScript**: For performing BMI calculations and handling user input.
+
+**Status**: ✅ Completed
+
+
 ## **Contact**
 
 Feel free to reach out if you have any questions or need further information:
