@@ -1,0 +1,10 @@
+[data-bs-theme=dark] {
+  --bs-body-bg: #171543 !important;
+  --bs-body-bg-rgb: 23, 21, 59 !important;
+  --bs-secondary-bg-rgb: 32, 29, 69 !important;
+}
+
+input:focus,
+select:focus {
+  box-shadow: 0 0 0 .25rem rgba(46, 35, 108, 0) !important;
+}

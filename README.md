@@ -49,7 +49,41 @@
 
 - **`/client`**: Contains the React application for the To-Do List.
 - **`/server`** (Optional): Contains the Node.js backend server if used.
-- **`/docs`**: Documentation related to the tasks and setup.
+
+## **TASK 4: CALCULATOR** ✅
+
+**Description:**
+- **Objective**: Design a fundamental calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+- **Features**:
+  - A screen display to show both user inputs and results.
+  - Buttons for digits and operations laid out using CSS Grid for a structured layout.
+  - Interactive elements include event listeners and conditional statements to handle user inputs and computations.
+
+**Technologies Used:**
+- **React**: Core framework for building the UI components.
+- **React Bootstrap**: For styling and responsive layout using pre-built Bootstrap components.
+- **JavaScript**: Logic for arithmetic operations and event handling.
+- **CSS Grid**: Used within React components for laying out buttons.
+
+**Status**: ✅ Completed
+
+## **TASK 5: CURRENCY CONVERTER** ✅
+
+**Description:**
+- **Objective**: Build a web application to convert between different currencies using real-time exchange rates.
+- **Features**:
+  - Fetch real-time exchange rates from a public API.
+  - Convert currency based on user input.
+  - Responsive UI built with React and React Bootstrap, with interactive components.
+
+**Technologies Used:**
+- **React**: Core framework for building the UI components.
+- **React Bootstrap**: For styling and responsive layout using pre-built Bootstrap components.
+- **JavaScript**: Logic for fetching exchange rates and performing conversions.
+- **Fetch API**: Used for fetching real-time exchange rates from a public API.
+
+**Status**: ✅ Completed
+
 
 ## **Contact**
 
