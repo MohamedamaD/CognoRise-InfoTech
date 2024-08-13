@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OTP Email</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 60px;
+        background-color: #f6f6f6;
+      }
+      .container {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .header {
+        text-align: center;
+        padding-bottom: 20px;
+      }
+      .header img {
+        max-width: 150px;
+      }
+      .content {
+        text-align: center;
+      }
+      .otp {
+        display: inline-block;
+        background-color: #e0f7fa;
+        padding: 10px 20px;
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: 20px;
+        letter-spacing: 2px;
+        border-radius: 5px;
+      }
+      .footer {
+        text-align: center;
+        margin-top: 20px;
+        color: #888888;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <img
+          src="https://content.presspage.com/uploads/685/1920_traveller-9.jpeg?10000"
+          alt="Travel Booking Logo"
+        />
+      </div>
+      <div class="content">
+        <p>Hello,</p>
+        <p>
+          We received a request to book a trip using the email
+          <strong>{{email}}</strong>. If it was you, please use the following
+          OTP code to confirm your booking:
+        </p>
+        <div class="otp">{{otpCode}}</div>
+      </div>
+      <div class="footer">
+        <p>
+          &copy; Travel Booking Inc., 123 Travel Road, Wanderlust City, TX 75001
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

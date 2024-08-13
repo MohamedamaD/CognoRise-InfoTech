@@ -27,17 +27,11 @@
 **Description:**
 - Build a simple to-do list application that allows users to add, edit, and delete tasks.
 
-**Technologies:**
-- **Front-End**: HTML, CSS, JavaScript
-- **Backend** (Optional): Node.js or Flask for storing tasks
-
 **Features:**
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
 - Option to use local storage or a backend server
-
-**Status**: ✅ Completed
 
 ## **Technologies Used**
 
@@ -49,6 +43,32 @@
 
 - **`/client`**: Contains the React application for the To-Do List.
 - **`/server`** (Optional): Contains the Node.js backend server if used.
+
+**Status**: ✅ Completed
+
+## **TASK 3: TRAVEL BOOKING SYSTEM** 🌍
+
+**Description:**
+- **Objective**: Develop a comprehensive Travel Booking System that allows users to search, book, and manage their travel plans seamlessly.
+- **Features**:
+  - **User Registration & Login**: Secure user authentication with JWT and bcrypt for password hashing.
+  - **Search & Filter**: Users can search for tours based on various criteria such as destination, duration, and price.
+  - **Booking Management**: Users can book tours, view booking history, and manage their bookings.
+  - **Payment Integration**: Secure payment gateway integration using Stripe to handle tour payments.
+  - **Admin Dashboard**: Admin functionalities to manage tours, bookings, and users.
+
+**Technologies Used:**
+- **Frontend**:
+  - **React**: Core framework for building UI components.
+  - **React Bootstrap**: For responsive styling and layout.
+  - **Axios**: For API requests.
+  - **Vite**: For a fast development environment.
+
+- **Backend**:
+  - **Node.js & Express**: Server-side logic and API handling.
+  - **MongoDB & Mongoose**: Database for storing user data, tours, and bookings.
+
+**Status**: ✅ Completed
 
 ## **TASK 4: CALCULATOR** ✅
 

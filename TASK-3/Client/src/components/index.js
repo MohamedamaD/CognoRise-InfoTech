@@ -1,0 +1,9 @@
+export { default as LoginForm } from "./LoginForm/LoginForm";
+export { default as RegisterForm } from "./RegisterForm/RegisterForm";
+export { default as PaymentForm } from "./PaymentForm/PaymentForm";
+export { default as BookedTours } from "./BookedTours/BookedTours";
+export { default as SearchForm } from "./SearchForm/SearchForm";
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as LandingPage } from "./LandingPage/LandingPage";
+export { default as TourDetails } from "./TourDetails/TourDetails";
+export { default as Pay } from "./Pay/Pay";

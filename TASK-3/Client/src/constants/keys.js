@@ -1,0 +1,5 @@
+export const queryKeys = {
+  TOUR_SEARCH_KEY: "TOUR_SEARCH",
+  BOOK_TOUR_KEY: "BOOK_TOUR",
+  BOOKED_TOUR_KEY: "BOOKED_TOUR"
+};

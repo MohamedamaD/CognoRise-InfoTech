@@ -24,8 +24,8 @@ function TodoItem({ todo, deleteTodo, editTodo }) {
       ) : (
         <span>{todo.task}</span>
       )}
-      <div>
-        <Button variant="outline-primary" onClick={handleEdit} className="me-2">
+      <div  className="d-flex justify-content-between align-items-center gap-2">
+        <Button variant="outline-primary" onClick={handleEdit}>
           {isEditing ? "Save" : "Edit"}
         </Button>
         <Button variant="outline-danger" onClick={() => deleteTodo(todo.id)}>
