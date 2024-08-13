@@ -48,6 +48,8 @@
 
 **Status**: ✅ Completed
 
+![Task Demo](./GIF/TASK-2.gif)
+
 ## **TASK 3: TRAVEL BOOKING SYSTEM** 🌍
 
 **Description:**
@@ -72,6 +74,9 @@
 
 **Status**: ✅ Completed
 
+![Task Demo](./GIF/TASK-3.0.gif)
+![Task Demo](./GIF/TASK-3.1.gif)
+
 ## **TASK 4: CALCULATOR** ✅
 
 **Description:**
@@ -89,6 +94,8 @@
 
 **Status**: ✅ Completed
 
+![Task Demo](./GIF/TASK-4.gif)
+
 ## **TASK 5: CURRENCY CONVERTER** ✅
 
 **Description:**
@@ -105,6 +112,8 @@
 - **Fetch API**: Used for fetching real-time exchange rates from a public API.
 
 **Status**: ✅ Completed
+
+![Task Demo](./GIF/TASK-5.gif)
 
 ## **TASK 6: QUIZ APPLICATION** ✅
 
@@ -125,6 +134,8 @@
 
 **Status**: ✅ Completed
 
+![Task Demo](./GIF/TASK-6.gif)
+
 ## **TASK 7: COUNTDOWN TIMER** ✅
 
 **Description:**
@@ -142,6 +153,7 @@
 
 **Status**: ✅ Completed
 
+![Task Demo](./GIF/TASK-7.gif)
 
 ## **TASK 8: BMI CALCULATOR** ✅
 
@@ -159,6 +171,7 @@
 
 **Status**: ✅ Completed
 
+![Task Demo](./GIF/TASK-8.gif)
 
 ## **Contact**
 
