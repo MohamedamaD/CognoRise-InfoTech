@@ -22,6 +22,8 @@
 
 **Status**: ✅ Completed
 
+![Task Demo](./GIF/TASK-1.gif)
+
 ## **TASK 2: TO-DO LIST** ✅
 
 **Description:**
